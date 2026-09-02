@@ -14,8 +14,12 @@ Permite registrar, categorizar, asignar, priorizar, atender y cerrar solicitudes
 
 El equipo está formado por:
 
-- 3 Software Engineers
-- 1 QA Engineer
+- Matias Bertuccio
+- Alexis Albarenga
+- Linder Rodríguez
+- Andrés Uzeda
+
+NOTA: Más adelante los roles serán detallados.
 
 </details>
 
