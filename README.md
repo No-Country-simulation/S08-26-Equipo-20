@@ -28,7 +28,7 @@ NOTA: Más adelante los roles serán detallados.
 
 **Back-End:** Python · FastAPI · SQLAlchemy · Alembic
 
-**Front-End:** React · TypeScript · Vite · Tailwind CSS
+**Front-End:** NextJS · TypeScript
 
 **Bases de Datos:** SQL · PostgreSQL
 
