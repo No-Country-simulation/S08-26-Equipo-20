@@ -14,10 +14,10 @@ Permite registrar, categorizar, asignar, priorizar, atender y cerrar solicitudes
 
 El equipo está formado por:
 
-- Matias Bertuccio
-- Alexis Albarenga
-- Linder Rodríguez
-- Andrés Uzeda
+- [Matias Bertuccio — Software Engineer](https://www.linkedin.com/in/matiasbertuccio/)
+- [Alexis Albarenga — Software Engineer](https://www.linkedin.com/in/alexisalbarenga/)
+- [Linder Rodríguez — Software Engineer](https://www.linkedin.com/in/linder-rodriguez-05ba592b9/)
+- [Andrés Uzeda — QA Engineer](https://www.linkedin.com/in/estrada-uzeda-andres-adrian-9b53013a5/)
 
 NOTA: Más adelante los roles serán detallados.
 
