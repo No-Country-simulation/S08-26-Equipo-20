@@ -7,6 +7,8 @@ class Settings(BaseSettings):
     SECRET_KEY: str = "change-me-in-.env"
     ALGORITHM: str = "HS256"
     ACCESS_TOKEN_EXPIRE_MINUTES: int = 30
+    ADMIN_EMAIL: str = "admin@serviceflow.com"
+    ADMIN_PASSWORD: str = "admin12345"
 
     model_config = {
         "env_file": ".env",
