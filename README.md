@@ -54,7 +54,7 @@ NOTA: Más adelante los roles serán detallados.
                          ├───────────────────────┤
                          │ React                 │
                          │ TypeScript            │
-                         │ Vite                  │
+                         │ Next.js               │
                          │ Tailwind CSS          │
                          └───────────┬───────────┘
                                      │
@@ -91,4 +91,4 @@ NOTA: Más adelante los roles serán detallados.
 ---
 
 - Creación: 2026-09-02
-- Última Actualización: 2026-09-02
+- Última Actualización: 2026-09-04
