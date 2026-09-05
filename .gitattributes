@@ -1,0 +1,23 @@
+# Recuento de lenguajes de GitHub (Linguist)
+# Objetivo: mostrar solo Python y TypeScript.
+
+# Plantilla boilerplate de Alembic (para generar migraciones, la trae la herramienta)
+back-end/alembic/script.py.mako linguist-generated
+
+# Configs JS del front TypeScript → se cuentan como TypeScript
+*.mjs linguist-language=TypeScript
+
+# Assets de scaffolding/logo de Next.js
+*.svg linguist-vendored
+front-end/public/serviceflow_logo/* linguist-documentation
+
+# Documentación y listado de dependencias
+*.md linguist-documentation
+back-end/requirements*.txt linguist-documentation
+
+# Configuración de infraestructura del back-end
+back-end/alembic.ini linguist-vendored
+
+# CSS y JSON (estilos/configuración, no lógica de negocio)
+*.css linguist-vendored
+*.json linguist-vendored
