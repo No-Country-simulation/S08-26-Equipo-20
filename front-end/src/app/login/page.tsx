@@ -60,7 +60,7 @@ export default function LoginPage() {
         <form onSubmit={handleSubmit} className="space-y-4">
           <div>
             <label htmlFor="usuario" className="block text-xs text-gray-400 mb-1.5">
-              Usuario / Correo Corporativo
+              Correo Corporativo
             </label>
             <input
               id="usuario"
@@ -68,7 +68,7 @@ export default function LoginPage() {
               type="email"
               required
               autoComplete="email"
-              placeholder="usuario@empresa.com"
+              placeholder="usuario@serviceflow.com"
               value={email}
               onChange={(event) => setEmail(event.target.value)}
               className="w-full bg-zinc-950 border border-zinc-800 text-white rounded-md px-3 py-2 text-sm placeholder-zinc-700 focus:outline-none focus:ring-1 focus:ring-zinc-600 focus:border-zinc-600 transition-colors"
